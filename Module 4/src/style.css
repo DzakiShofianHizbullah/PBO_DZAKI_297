@@ -1,0 +1,8 @@
+src/
+├── Main.java
+└── perpustakaan/
+    ├── Buku.java
+    ├── Fiksi.java
+    ├── NonFiksi.java
+    ├── Peminjaman.java
+    └── Anggota.java
